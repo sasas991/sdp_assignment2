@@ -71,3 +71,7 @@ the factory classes.
 ## Project Structure
 
 ![](1.png)
+
+## Run
+
+./gradlew run
