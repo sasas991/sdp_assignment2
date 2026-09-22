@@ -4,6 +4,6 @@ public class AndroidMessageFormatter implements MessageFormatter {
 
     @Override
     public String format(String message) {
-        return "[Android] " + message;
+        return "[android] " + message;
     }
 }
