@@ -73,5 +73,8 @@ the factory classes.
 ![](1.png)
 
 ## Run
+### Factory Method
+./gradlew runFactoryMethod
 
-./gradlew run
+### Abstract Factory
+./gradlew runAbstractFactory
